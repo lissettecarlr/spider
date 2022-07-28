@@ -36,4 +36,4 @@ for temp in trueGold:
 trueGoldList.sort()
 print(trueGoldList)
 
-vx.post("wow", "\n官方：\n"+str(tempGoldList)+"\n 实际：\n"+str(trueGoldList))
+#vx.post("wow", "\n官方：\n"+str(tempGoldList)+"\n 实际：\n"+str(trueGoldList))
